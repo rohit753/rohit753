@@ -10,29 +10,28 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Working of Nykaa-Clone by Rohit ](https://medium.com/@rohit753/nykaa-website-clone-construct-week-experience-masai-school-bb6fb80529ef)
+- [Working of Nykaa-Clone by Rohit ]()
+- <a rel="me" target="blank" href="https://medium.com/@rohit753/nykaa-website-clone-construct-week-experience-masai-school-bb6fb80529ef">Nykaa - clone /medium.com</a>
 
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<a href="https://www.linkedin.com/in/rohit-kumar-sahu-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/rohitkumarsahu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
+I am an aspiring Full Stack Developer, currently I am Devloping my Problem solving ability.
 
 ### My Opensource Story
-All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
+All of my projects are released as open-source on GitHub.
 - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.6K+ stars.  It got discussed in many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 3.5K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
 -  [SoCLI](https://github.com/gautamkrishnar/socli) scored 300+ stars within 24 hours of its release. It now has almost 2K+ users. It provides an easy way of accessing StackOverflow even if you are hooked into a terminal.

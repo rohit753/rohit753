@@ -2,7 +2,7 @@
 This is the place where I do experiments and break things :rofl: 
 
 
-<img src="https://c.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif" height="420px" width="850px">
+<img src="https://c.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif" height="400px" width="780px">
 
 
 

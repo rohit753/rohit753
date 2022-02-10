@@ -78,4 +78,8 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 <p align="center">
     <a href="https://github.com/rohit753/github-readme-stats"><img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohit753&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
+    
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit753&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+  </p>
  

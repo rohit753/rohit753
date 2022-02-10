@@ -31,13 +31,10 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 
 ### My Opensource Story
 All of my projects are released as open-source on GitHub.
-- [Nothing Private](https://rohit753.github.io/Adidas-Clone/) - In this Project we (me and my teammembers) aimed to develop a clone of adidas website, We were able to create home page (of men/women/kids), product page,signp-login page and the payment page. This was my first big project and I am really proud of it.
-- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 3.5K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
--  [SoCLI](https://github.com/gautamkrishnar/socli) scored 300+ stars within 24 hours of its release. It now has almost 2K+ users. It provides an easy way of accessing StackOverflow even if you are hooked into a terminal.
-- [Motrix WebExtension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager. It now has more than 2K+ users worldwide.
-- [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds. 
+- [Adidas-Clone](https://rohit753.github.io/Adidas-Clone/) - In this Project we (me and my teammembers) aimed to develop a clone of adidas website, We were able to create home page (of men/women/kids), product page,signp-login page and the payment page. This was my first big project and I am really proud of it.
+- [Nayka-Clone](https://rohit753.github.io/Naykaa-Clone/) - In this Project we (me and my teammembers) aimed to develop a clone of Nykaa website, We were able to create home page, product page(Men),signp-login page and the payment page. This was the project which helped me in getting the graps of ES6 features of Js.
+-  [To-Do App](https://2d0app.netlify.app/) A small but very productive project This was my 1st solo try to bust a Web app ground up, I used ES6 features and i learnt how to use service workers in order to make my App work offline and installable.
 
-[⏩ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
 ```
   ____                  ____                      

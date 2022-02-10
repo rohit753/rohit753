@@ -1,6 +1,9 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I do experiments and break things :rofl:
 
+<p align="center" href="#"><img width="50%" height="auto" src="https://cdni.iconscout.com/illustration/premium/preview/web-development-4468493-3714179.png?w=0&h=700"/></p>
+
+<br/>
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Node js, MongoDb
 - 💬 &nbsp;Ask me about anything related to Javascript//React/ES6/Life🙃

@@ -23,7 +23,7 @@ This is the place where I do experiments and break things :rofl:
 <a href="https://www.instagram.com/rohitkumarsahu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
-<details>
+
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
@@ -36,31 +36,6 @@ All of my projects are released as open-source on GitHub.
 -  [To-Do App](https://2d0app.netlify.app/) A small but very productive project This was my 1st solo try to bust a Web app ground up, I used ES6 features and i learnt how to use service workers in order to make my App work offline and installable.
 
 
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
-
-Most of my leisure time is to contribute to open-source projects on GitHub. Acknowledging my extensive contribution to DuckDuckGo's open source projects, I was promoted as a maintainer and community leader with write access to all DuckDuckGo's repositories. I had contributed to Mozilla, Angular, Svelte, Node.JS, and several other open-source projects and organizations.
-
-I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
-
-You can learn more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
-
-Most of the open-source projects I create are the solutions to the problems I face in my life, there are even more that are yet unsolved. I am on a journey to find solutions for them, one at a time.
-
-### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons
-</details> 
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>

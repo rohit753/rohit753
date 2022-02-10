@@ -71,7 +71,11 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 
 <p align="center">
     <a href="https://github.com/rohit753/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aleem Alam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit753&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit753&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/rohit753/github-readme-stats"><img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohit753&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>
  

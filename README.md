@@ -1,6 +1,10 @@
 ### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I do experiments and break things :rofl: 
 
+   <br/>
+   <p> Coding Mode Enable  ✔️<p/>
+      <br/>
+
 
 <img src="https://c.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif" height="400px" width="780px">
 

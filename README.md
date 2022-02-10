@@ -10,8 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Working of Nykaa-Clone by Rohit ]()
-- <a rel="me" target="blank" href="https://medium.com/@rohit753/nykaa-website-clone-construct-week-experience-masai-school-bb6fb80529ef">Nykaa - clone /medium.com</a>
+- <a rel="me" target="_blank" href="https://medium.com/@rohit753/nykaa-website-clone-construct-week-experience-masai-school-bb6fb80529ef">Nykaa - clone /medium.com</a>
 
 <!-- BLOG-POST-LIST:END -->
 

@@ -23,9 +23,9 @@ This is the place where I do experiments and break things :rofl:
 <p align="left">
 
 
-<a href="https://www.linkedin.com/in/rohit-kumar-sahu-/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-kumar-sahu-/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohit Kumar Sahu" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/rohitkumarsahu_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rohitkumarsahu_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rohit Kumar Sahu" height="30" width="40" /></a>
 
 
 
@@ -71,7 +71,7 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 
 <p align="center">
     <a href="https://github.com/rohit753/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aleem Alam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AleemAlam&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aleem Alam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit753&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  

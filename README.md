@@ -12,6 +12,9 @@ This is the place where I do experiments and break things :rofl:
 - 📫 &nbsp;How to reach me: [Rohit Kumar Sahu] - rohit753kumar@gmail.com or <a rel="me" target="blank" href="https://www.linkedin.com/in/rohit-kumar-sahu-/">LinkedIn</a>
 - 👨‍💻 &nbsp;Read more about my projects at [rohit753](https://github.com/rohit753?tab=repositories)
 - ⚡ &nbsp;Fun fact: I 💘 Js and Game Of Thrones⚔️
+-  <br/>
+  <br/>
+   <br/>
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -26,7 +29,9 @@ This is the place where I do experiments and break things :rofl:
 <a href="https://www.instagram.com/rohitkumarsahu_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rohit Kumar Sahu" height="30" width="40" /></a>
 <p/> -->
 
-
+ <br/>
+  <br/>
+   <br/>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
@@ -37,11 +42,14 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 - [Adidas-Clone](https://rohit753.github.io/Adidas-Clone/) - In this Project we (me and my teammembers) aimed to develop a clone of adidas website, We were able to create home page (of men/women/kids), product page,signp-login page and the payment page. This was my first big project and I am really proud of it.
 - [Nayka-Clone](https://rohit753.github.io/Naykaa-Clone/) - In this Project we (me and my teammembers) aimed to develop a clone of Nykaa website, We were able to create home page, product page(Men),signp-login page and the payment page. This was the project which helped me in getting the graps of ES6 features of Js.
 -  [To-Do App](https://2d0app.netlify.app/) A small but very productive project This was my 1st solo try to bust a Web app ground up, I used ES6 features and i learnt how to use service workers in order to make my App work offline and installable.
+<br/>
   
   Lot more to come keep watching this space 🚀.......
 
 
-
+ <br/>
+  <br/>
+   <br/>
 
   <h2 align="center">🛠  Languages and Tools 🛠 
 </h2>
@@ -65,7 +73,10 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
-<br>
+
+ <br/>
+  <br/>
+   <br/>
 
 <p align="center">
     <a href="https://github.com/rohit753/github-readme-streak-stats">
@@ -84,6 +95,9 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 
 <a href="https://github.com/rohit753/github-readme-activity-graph"><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohit753&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+ <br/>
+  <br/>
+   <br/>
 🔗 &nbsp;**Connect with me**
 <p align="left">
 

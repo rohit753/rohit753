@@ -19,12 +19,12 @@ This is the place where I do experiments and break things :rofl:
 
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
+
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/rohit-kumar-sahu-/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohit Kumar Sahu" height="30" width="40" /></a>
 
 <a href="https://www.instagram.com/rohitkumarsahu_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rohit Kumar Sahu" height="30" width="40" /></a>
-<p/>
+<p/> -->
 
 
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
@@ -84,6 +84,7 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 
 <a href="https://github.com/rohit753/github-readme-activity-graph"><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohit753&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+🔗 &nbsp;**Connect with me**
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rohit-kumar-sahu-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>

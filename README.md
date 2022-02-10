@@ -68,4 +68,10 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 <br>
+
+<p align="center">
+    <a href="https://github.com/rohit753/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aleem Alam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AleemAlam&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
  

@@ -1,8 +1,8 @@
 ### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I do experiments and break things :rofl:
+This is the place where I do experiments and break things :rofl: 
 
 
-<img src="https://c.tenor.com/_FeTJs4L9QUAAAAC/im-a-developer-craig-dennis-freecodecamp.gif" height="300px" width="5000px">
+<img src="https://c.tenor.com/_FeTJs4L9QUAAAAC/im-a-developer-craig-dennis-freecodecamp.gif" height="300px" width="500px">
 
 
 

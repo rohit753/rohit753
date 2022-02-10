@@ -2,6 +2,8 @@
 This is the place where I do experiments and break things :rofl:
 
 
+<img src="https://c.tenor.com/_FeTJs4L9QUAAAAC/im-a-developer-craig-dennis-freecodecamp.gif" width="25px">
+
 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:

@@ -2,7 +2,7 @@
 This is the place where I do experiments and break things :rofl:
 
 
-<img src="https://c.tenor.com/_FeTJs4L9QUAAAAC/im-a-developer-craig-dennis-freecodecamp.gif" height="3000px" width="5000px">
+<img src="https://c.tenor.com/_FeTJs4L9QUAAAAC/im-a-developer-craig-dennis-freecodecamp.gif" height="300px" width="5000px">
 
 
 

@@ -13,7 +13,7 @@ This is the place where I do experiments and break things :rofl:
 - 👨‍💻 &nbsp;Read more about my projects at [rohit753](https://github.com/rohit753?tab=repositories)
 - ⚡ &nbsp;Fun fact: I 💘 Js and Game Of Thrones⚔️
 -  <br/>
-  <br/>
+<!--   <br/> -->
    <br/>
 
 📕 &nbsp;**Latest Blog Posts**
@@ -29,7 +29,7 @@ This is the place where I do experiments and break things :rofl:
 <a href="https://www.instagram.com/rohitkumarsahu_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rohit Kumar Sahu" height="30" width="40" /></a>
 <p/> -->
 
- <br/>
+<!--  <br/> -->
   <br/>
    <br/>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
@@ -49,7 +49,7 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 
  <br/>
   <br/>
-   <br/>
+<!--    <br/> -->
 
   <h2 align="center">🛠  Languages and Tools 🛠 
 </h2>
@@ -74,21 +74,21 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 
- <br/>
+<!--  <br/> -->
   <br/>
    <br/>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/rohit753/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit753&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/rohit753/github-readme-stats"><img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohit753&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
     
- <p align="center">
+ <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit753&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
   </p>
  
@@ -97,7 +97,7 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 
  <br/>
   <br/>
-   <br/>
+<!--    <br/> -->
 🔗 &nbsp;**Connect with me**
 <p align="left">
 

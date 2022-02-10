@@ -2,7 +2,7 @@
 This is the place where I do experiments and break things :rofl: 
 
    <br/>
-   <p> Coding Mode Enable  ✔️<p/>
+   <p> Coding Mode Enabled  ✔️<p/>
       <br/>
 
 

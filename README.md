@@ -6,7 +6,7 @@ This is the place where I do experiments and break things :rofl:
       <br/>
 
 
-<img src="https://img.freepik.com/free-vector/telecommuting-concept-illustration_114360-1600.jpg?w=1380" height="400px" width="780px">
+<img src="https://i.ibb.co/FX8hJpT/Whats-App-Video-2022-02-11-at-6-43-09-PM.gif" height="400px" width="780px">
 <br/>
 <br/><br/>
 

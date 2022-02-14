@@ -42,7 +42,7 @@ This is the place where I do experiments and break things :rofl:
 
 I am an aspiring Full Stack Developer, currently I am Devloping my Problem solving ability.
 
-### My Journey so far.........
+### My Journey so far........
 
 - [Adidas-Clone](https://rohit753.github.io/Adidas-Clone/) - In this Project we (me and my teammembers) aimed to develop a clone of adidas website, We were able to create home page (of men/women/kids), product page,signp-login page and the payment page. This was my first big project and I am really proud of it.
 - [Nayka-Clone](https://rohit753.github.io/Naykaa-Clone/) - In this Project we (me and my teammembers) aimed to develop a clone of Nykaa website, We were able to create home page, product page(Men),signp-login page and the payment page. This was the project which helped me in getting the graps of ES6 features of Js.

@@ -17,7 +17,7 @@ This is the place where I do experiments and break things :rofl:
 - 📫 &nbsp;How to reach me: [Rohit Kumar Sahu] - rohit753kumar@gmail.com or <a rel="me" target="blank" href="https://www.linkedin.com/in/rohit-kumar-sahu-/">LinkedIn</a>
 - 👨‍💻 &nbsp;Read more about my projects at [rohit753](https://github.com/rohit753?tab=repositories)
 - ⚡ &nbsp;Fun fact: I 💘 Js and Game Of Thrones⚔️
--  <br/>
+ <br/>
 <!--   <br/> -->
    <br/>
 

@@ -3,7 +3,11 @@ This is the place where I do experiments and break things :rofl:
 
    <br/>
    <p> Coding Mode Enabled  ✔️<p/>
+   
       <br/>
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit753&label=Profile%20views&color=0e75b6&style=flat" alt="rohit753" /> </p>
+
+       <br/>
 
 
 <img src="https://i.ibb.co/FX8hJpT/Whats-App-Video-2022-02-11-at-6-43-09-PM.gif" height="500px" width="780px">

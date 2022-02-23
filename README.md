@@ -50,7 +50,7 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 ### My Journey so far........
 
 - [Adidas-Clone](https://rohit753.github.io/Adidas-Clone/) - In this Project we (me and my teammembers) aimed to develop a clone of adidas website, We were able to create home page (of men/women/kids), product page,signp-login page and the payment page. This was my first big project and I am really proud of it.
-- [Nayka-Clone](https://rohit753.github.io/Naykaa-Clone/) - In this Project we (me and my teammembers) aimed to develop a clone of Nykaa website, We were able to create home page, product page(Men),signp-login page and the payment page. This was the project which helped me in getting the graps of ES6 features of Js.
+- [Nykaa-Clone](https://rohit753.github.io/Naykaa-Clone/) - In this Project we (me and my teammembers) aimed to develop a clone of Nykaa website, We were able to create home page, product page(Men),signp-login page and the payment page. This was the project which helped me in getting the graps of ES6 features of Js.
 -  [To-Do App](https://2d0app.netlify.app/) A small but very productive project This is my 1st solo try to bust a Web app ground up, I used ES6 features and i learnt how to use service workers in order to make my App work offline and installable.
 <br/>
   

@@ -114,6 +114,11 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit753&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<p align="center">
+    <a href="https://github.com/rohit753/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit753&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <p align="center">
     <a href="https://github.com/rohit753/github-readme-stats"><img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohit753&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -138,11 +143,11 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
 <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
- <div align=center>
+<!--  <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rohit753&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rohit753&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
+  </div> -->

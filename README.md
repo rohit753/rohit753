@@ -131,7 +131,7 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
   </p>
  
 
-<!-- <a href="https://github.com/rohit753/github-readme-activity-graph"><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohit753&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/rohit753/github-readme-activity-graph"><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohit753&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
  <br/>
   <br/>

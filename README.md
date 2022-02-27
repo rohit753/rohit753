@@ -120,9 +120,9 @@ I am an aspiring Full Stack Developer, currently I am Devloping my Problem solvi
     </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/rohit753/github-readme-stats"><img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohit753&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>
+    </p> -->
     
  <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">

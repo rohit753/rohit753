@@ -17,7 +17,7 @@ This is the place where I do experiments and break things :rofl:
 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Node js, MongoDb
+- 🌱 &nbsp;I’m currently learning web sockets
 - 💬 &nbsp;Ask me about anything related to Javascript//React/ES6/Life🙃
 - 📫 &nbsp;How to reach me: [Rohit Kumar Sahu] - rohit753kumar@gmail.com or <a rel="me" target="blank" href="https://www.linkedin.com/in/rohit-kumar-sahu-/">LinkedIn</a>
 - 👨‍💻 &nbsp;Read more about my projects at [rohit753](https://github.com/rohit753?tab=repositories)
